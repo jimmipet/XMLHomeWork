@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dump>
+  <Wastes>
+    <Waste id="1">
+      <Condition>Твердые</Condition>
+      <Type>Промышленныe</Type>
+      <State>Горючие</State>
+      <Decompositionperiod>
+        <age>20</age>
+      </Decompositionperiod>
+    </Waste>
+    <Waste id="2">
+      <Condition>Жидкие</Condition>
+      <Type>Бытовые</Type>
+      <State>Не горючие</State>
+      <Decompositionperiod>
+        <age>5</age>
+      </Decompositionperiod>
+    </Waste>
+    <Waste id ="3">
+      <Condition>Газообразные</Condition>
+      <Type>Промышленныe</Type>
+      <State>Не горючие</State>
+      <Decompositionperiod>
+        <age>2</age>
+      </Decompositionperiod>
+    </Waste>
+    <Waste id="4">
+      <Condition>Вещи,техника</Condition>
+      <Type>Бытовые</Type>
+      <State>Смешанные</State>
+      <Decompositionperiod>
+        <age>7</age>
+      </Decompositionperiod>
+    </Waste>
+  </Wastes>
+  <Equipments>
+    <Equipment id="1">
+      <name>Трактор</name>
+      <year>2012</year>
+      <Condition>Старый</Condition>
+      <Repair>
+        <Status>Нужен ремонт</Status>
+      </Repair>
+    </Equipment>
+    <Equipment id="2">
+      <name>Экскаватор</name>
+      <year>2020</year>
+      <Condition>Новый</Condition>
+      <Repair>
+        <Status>Ремонт не нужен</Status>
+      </Repair>
+    </Equipment>
+    <Equipment id="3">
+      <name>Бульдозер</name>
+      <year>2017</year>
+      <Condition>Относительно новый</Condition>
+      <Repair>
+        <Status>Нужен косметический ремонт</Status>
+      </Repair>
+    </Equipment>
+    <Equipment id="4">
+      <name>Мусоровоз</name>
+      <year>2010</year>
+      <Condition>Очень старый</Condition>
+      <Repair>
+        <Status>В утилизацию</Status>
+      </Repair>
+    </Equipment>
+  </Equipments>
+  <Workers>
+    <Worker id="1">
+      <name>Александр</name>
+      <surname>Свалкин</surname>
+      <post>Тракторист</post>
+      <Salary>25000</Salary>
+    </Worker>
+    <Worker id="2">
+      <name>Николай</name>
+      <surname>Мусорщик</surname>
+      <post>Водитель бульдозера</post>
+      <Salary>20000</Salary>
+    </Worker>
+    <Worker id="3">
+      <name>Артем</name>
+      <surname>Гнильцов</surname>
+      <post>Экскаваторщик</post>
+      <Salary>40000</Salary>
+    </Worker>
+    <Worker id="4">
+      <name>Дима</name>
+      <surname>Гнитецкий</surname>
+      <post>Водитель мусоровоза</post>
+      <Salary>15000</Salary>
+    </Worker>
+  </Workers>
+  <Repairs>
+    <Repair id="1">
+      <Status>Нужен ремонт</Status>
+    </Repair>
+    <Repair id="2">
+      <Status>Ремонт не нужен</Status>
+    </Repair>
+    <Repair id="3">
+      <Status> В утилизацию</Status>
+    </Repair>
+    <Repair id="4">
+      <Status>Нужен косметический ремонт</Status>
+    </Repair>
+  </Repairs>
+  <Decompositionperiods>
+    <Decompositionperiod id="1">
+      <age>20</age>
+    </Decompositionperiod>
+    <Decompositionperiod id="2">
+      <age>5</age>
+    </Decompositionperiod>
+    <Decompositionperiod id="3">
+      <age>2</age>
+    </Decompositionperiod>
+    <Decompositionperiod id="4">
+      <age>7</age>
+    </Decompositionperiod>
+  </Decompositionperiods>
+</Dump>

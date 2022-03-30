@@ -1,0 +1,10 @@
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\СвалкаFinal.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\Свалка_суперфинальная.Свалка.resources
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\Свалка_суперфинальная.Properties.Resources.resources
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\СвалкаFinal.csproj.GenerateResource.cache
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\СвалкаFinal.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\Свалка суперфинальная.exe
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\obj\Debug\Свалка суперфинальная.pdb
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\bin\Debug\Свалка суперфинальная.exe.config
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\bin\Debug\Свалка суперфинальная.exe
+C:\Users\Вячеслав\source\repos\Свалка суперфинальная\Свалка суперфинальная\bin\Debug\Свалка суперфинальная.pdb
